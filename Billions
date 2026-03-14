@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'cloud'
+        description: 'RenzzHGE'
         required: true
-        default: 'cloud'
+        default: 'RenzzHGE'
       agent_description:
-        description: 'cloud'
+        description: 'RenzzHGE'
         required: true
         default: 'cloud AI Agent'
 
